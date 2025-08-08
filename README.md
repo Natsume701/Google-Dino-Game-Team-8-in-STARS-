@@ -17,6 +17,10 @@ Our game has 4 modes:
 - GAMEOVER99
 
 The user may switch between the IDLE mode and RUN mode with PB [1]. The mode GAMEOVER0 is after the user collides with a cactus and is not at the maximum allotted score. GAMEOVER99 is the mode where the user has reached the maximum score possible before collision with a cactus.
+
+# Video Demo
+dino_game/files/e728d5df4d0d5307e090db356af27379.mp4
+
 # Gameplay
 When the game is enabled, the player will start in the IDLE mode. By pressing PB [0] (the jump button), the player will begin the RUN mode, where the cacti are generating, and the player must dodge them.
 
